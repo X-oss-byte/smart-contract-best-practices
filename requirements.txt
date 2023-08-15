@@ -10,5 +10,5 @@ pygments-lexer-solidity==0.0.2
 pymdown-extensions==4.6
 PyYAML>=4.2b1
 six==1.11.0
-tornado==4.5.2
+tornado==6.3.3
 markdown-include
